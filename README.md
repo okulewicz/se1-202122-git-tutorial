@@ -3,4 +3,4 @@
 Tutorial plan
 
  * Present github
- * Presnt sample git commands
+ * Present sample git commands
